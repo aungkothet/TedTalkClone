@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">TedTalk Clone</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="talk">Talks</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_listen">Listen</string>
+    <string name="menu_watch">Watch</string>
+    <string name="menu_add_to_my_list">Add to My List</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_privacy_policy">Privacy policy</string>
+    <string name="menu_feedback">Feedback</string>
+    <string name="menu_log_in">Log in</string>
+    <string name="str_speaker_name">Hajer Sharief</string>
+    <string name="str_talk_title">How to use family dinner to teach polities</string>
+    <string name="str_duration">10:00</string>
+    <string name="title_activity_talk_detail">TalkDetailActivity</string>
+    <string name="large_text">
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic."
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics."
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts."
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience."
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user. "
+        <i>
+            <font color="#bdbdbd">TEDSummit 2019, Filmed Jul
+                2019
+            </font>
+        </i>
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>
